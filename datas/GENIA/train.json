@@ -1,0 +1,31 @@
+[
+  {
+    "text": "The preferential induction of c-jun by H2O2 did not represent redox stabilization of mRNA transcripts , and oxidative signals closely resembled PHA/ PMA stimulation by effectively transactivating the full length c-jun promoter via the proximal jun1 tumor promoter-responsive element (TRE)-like promoter element .",
+    "entities": [
+      {
+        "start_idx": 85,
+        "end_idx": 101,
+        "type": "RNA",
+        "entity": "mRNA transcripts"
+      },
+      {
+        "start_idx": 30,
+        "end_idx": 35,
+        "type": "DNA",
+        "entity": "c-jun"
+      },
+      {
+        "start_idx": 212,
+        "end_idx": 217,
+        "type": "DNA",
+        "entity": "c-jun"
+      },
+      {
+        "start_idx": 235,
+        "end_idx": 310,
+        "type": "DNA",
+        "entity": "proximal jun1 tumor promoter-responsive element (TRE)-like promoter element"
+      }
+    ]
+  }
+]
